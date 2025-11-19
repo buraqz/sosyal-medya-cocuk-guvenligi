@@ -1,4 +1,4 @@
 ### MP3 - Veri Toplama Tasarımı
-- Yöntem: Anket
-- Veri kaynağı: Yapay olarak oluşturulmuş örnek veri seti.
+- Yöntem: Veri Manipülasyonu
+- Veri kaynağı: Anket
 - Kayıt sayısı: 15 satır
